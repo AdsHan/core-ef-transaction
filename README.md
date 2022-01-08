@@ -1,4 +1,4 @@
-# ZZ App
+# core-ef-transaction
 Demonstração de como o **EF** trabalha com transações, além de abordagens opcionais como controle manual com **DbContextTransaction** e **Transaction Scoped**. 
 
 # Como executar:
